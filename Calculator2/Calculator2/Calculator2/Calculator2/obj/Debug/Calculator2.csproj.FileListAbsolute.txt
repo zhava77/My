@@ -1,0 +1,22 @@
+C:\Users\Vlad Gromenko\source\repos\OOCP\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+C:\Users\Vlad Gromenko\source\repos\OOCP\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+C:\Users\Vlad Gromenko\source\repos\OOCP\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+C:\Users\Vlad Gromenko\source\repos\OOCP\Calculator2\Calculator2\obj\Debug\Calculator2.csprojResolveAssemblyReference.cache
+C:\Users\Vlad Gromenko\source\repos\OOCP\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Gromenko\source\repos\OOCP\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+C:\Users\Vlad Gromenko\source\repos\OOCP\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
+F:\Calculator2\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+F:\Calculator2\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+F:\Calculator2\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+F:\Calculator2\Calculator2\Calculator2\obj\Debug\Calculator2.csprojAssemblyReference.cache
+F:\Calculator2\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+F:\Calculator2\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+F:\Calculator2\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
+D:\Андрей\TFSFolder\MyProject Team\Calculator2\Calculator2\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+D:\Андрей\TFSFolder\MyProject Team\Calculator2\Calculator2\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+D:\Андрей\TFSFolder\MyProject Team\Calculator2\Calculator2\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+D:\Андрей\TFSFolder\MyProject Team\Calculator2\Calculator2\Calculator2\Calculator2\bin\Debug\Calculator2.exe.CodeAnalysisLog.xml
+D:\Андрей\TFSFolder\MyProject Team\Calculator2\Calculator2\Calculator2\Calculator2\bin\Debug\Calculator2.exe.lastcodeanalysissucceeded
+D:\Андрей\TFSFolder\MyProject Team\Calculator2\Calculator2\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+D:\Андрей\TFSFolder\MyProject Team\Calculator2\Calculator2\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+D:\Андрей\TFSFolder\MyProject Team\Calculator2\Calculator2\Calculator2\Calculator2\obj\Debug\Calculator2.pdb

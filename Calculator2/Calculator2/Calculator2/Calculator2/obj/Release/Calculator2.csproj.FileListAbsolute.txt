@@ -1,0 +1,7 @@
+D:\Андрей\TFSFolder\MyProject Team\Calculator2\Calculator2\Calculator2\Calculator2\bin\Release\Calculator2.exe.config
+D:\Андрей\TFSFolder\MyProject Team\Calculator2\Calculator2\Calculator2\Calculator2\bin\Release\Calculator2.exe
+D:\Андрей\TFSFolder\MyProject Team\Calculator2\Calculator2\Calculator2\Calculator2\bin\Release\Calculator2.pdb
+D:\Андрей\TFSFolder\MyProject Team\Calculator2\Calculator2\Calculator2\Calculator2\obj\Release\Calculator2.csprojAssemblyReference.cache
+D:\Андрей\TFSFolder\MyProject Team\Calculator2\Calculator2\Calculator2\Calculator2\obj\Release\Calculator2.csproj.CoreCompileInputs.cache
+D:\Андрей\TFSFolder\MyProject Team\Calculator2\Calculator2\Calculator2\Calculator2\obj\Release\Calculator2.exe
+D:\Андрей\TFSFolder\MyProject Team\Calculator2\Calculator2\Calculator2\Calculator2\obj\Release\Calculator2.pdb
